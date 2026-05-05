@@ -1,0 +1,1 @@
+import{r as e}from"./index-DD-EW_Gn.js";const o=t=>e.createElement("svg",{width:12,height:6,viewBox:"0 0 12 6",fill:"none",xmlns:"http://www.w3.org/2000/svg",...t},e.createElement("path",{d:"M0.75 0.75L5.75 4.75L11.25 0.75",stroke:"currentColor",strokeWidth:1.5,strokeLinecap:"round"}));export{o as S};

@@ -1,0 +1,1 @@
+import{e as s}from"./index-DD-EW_Gn.js";const r="/api",t=async a=>s.call({url:`${r}/Telegram/share-message`,method:"post",data:a}).then(e=>e.data);class n{SendMessageViaTelegram=async e=>t(e)}const c=new n;export{c as t};
